@@ -98,6 +98,6 @@ div.feed1 i.active{
 }
 @media (max-width: 385px) {
     div.feedback-cont{
-        height: 550px;
+        height: 530px;
     }
 }
